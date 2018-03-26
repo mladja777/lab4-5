@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          D:/RA44-2015/lab4-5/pcores/lab45_peripheral_v1_00_a/data/lab45_peripheral_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Mon Mar 26 09:47:41 2018 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib lab45_peripheral_v1_00_a user_logic vhdl
+lib lab45_peripheral_v1_00_a lab45_peripheral vhdl

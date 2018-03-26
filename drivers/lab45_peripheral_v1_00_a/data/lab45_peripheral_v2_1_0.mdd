@@ -1,0 +1,15 @@
+##############################################################################
+## Filename:          D:\RA44-2015\lab4-5/drivers/lab45_peripheral_v1_00_a/data/lab45_peripheral_v2_1_0.mdd
+## Description:       Microprocessor Driver Definition
+## Date:              Mon Mar 26 09:47:49 2018 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+OPTION psf_version = 2.1.0;
+
+BEGIN DRIVER lab45_peripheral
+
+  OPTION supported_peripherals = (lab45_peripheral);
+  OPTION depends = (common_v1_00_a);
+  OPTION copyfiles = all;
+
+END DRIVER

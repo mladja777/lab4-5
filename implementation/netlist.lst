@@ -1,0 +1,15 @@
+D:\RA44-2015\lab4-5\implementation\system.ngc 1522049715
+D:/RA44-2015/lab4-5/implementation/system_dip_switches_wrapper.ngc 1522049688
+D:/RA44-2015/lab4-5/implementation/system_rs232_wrapper.ngc 1522049675
+D:/RA44-2015/lab4-5/implementation/system_proc_sys_reset_0_wrapper.ngc 1522049592
+D:/RA44-2015/lab4-5/implementation/system_clock_generator_0_wrapper.ngc 1522049702
+D:/RA44-2015/lab4-5/implementation/system_microblaze_0_ilmb_wrapper.ngc 1522049694
+D:/RA44-2015/lab4-5/implementation/system_microblaze_0_dlmb_wrapper.ngc 1522049696
+D:/RA44-2015/lab4-5/implementation/system_axi4lite_0_wrapper.ngc 1522049704
+D:/RA44-2015/lab4-5/implementation/system_microblaze_0_wrapper.ngc 1522049699
+D:/RA44-2015/lab4-5/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1522049604
+D:/RA44-2015/lab4-5/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1522049614
+D:/RA44-2015/lab4-5/implementation/system_debug_module_wrapper.ngc 1522049655
+D:/RA44-2015/lab4-5/implementation/system_leds_wrapper.ngc 1522049682
+D:/RA44-2015/lab4-5/implementation/system_microblaze_0_bram_block_wrapper.ngc 1522049620
+OK

@@ -1,0 +1,10 @@
+-batch 
+-create lab45_peripheral 
+-ver 1.00.a 
+-dir "D:\RA44-2015\lab4-5" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-ise 
+-driver 
